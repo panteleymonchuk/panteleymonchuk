@@ -18,7 +18,7 @@ I build web products end-to-end — from WebGL rendering engines and hardware wa
 - **Data & Infra:** PostgreSQL, GraphQL, Docker, AWS, GitHub Actions
 - **Observability:** Sentry, Amplitude, Grafana, Prometheus
 
-### Recent Work — IOTA Foundation (2023–2026)
+### Recent Work — IOTA Foundation
 - **Visualizer 2.0** — WebGL engine for real-time blockchain transaction graphs (thousands of live nodes)
 - **Chrome Wallet Extension** — non-custodial browser wallet from zero, multisig support, client-side key security
 - *dApps for ecosystem** — iota-names (marketplace for nicknames), dashboard (managing assets), migration tools
