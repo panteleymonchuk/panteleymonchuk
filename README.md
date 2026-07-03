@@ -31,7 +31,10 @@ I build web products end-to-end — from WebGL rendering engines, complex applic
 - Pushed team feature delivery up 20% by introducing AI-assisted engineering workflows
 
 ### Contact
+
 Based in Kyiv, Ukraine 🇺🇦 · Open to new opportunities as **Fullstack Engineer**, **Tech Lead**, or **Product Engineer**
+
 **LinkedIn:** [linkedin.com/in/panteleymonchuk](https://linkedin.com/in/panteleymonchuk)
+
 **Email:** panteleymonchuk@gmail.com
 
